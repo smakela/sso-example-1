@@ -30,7 +30,7 @@ grails.project.dependency.resolution = {
     }
 	
 	plugins {
-		compile ':spring-security-core:1.1.3'
+		compile ':spring-security-core:1.2.7.3'
 		compile ':spring-security-cas:1.0.2'
 	}
 }
